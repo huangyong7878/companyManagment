@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Helo </string>
+    <string name="app_name">ImportContacts</string>
+    <string name="btn_import">import</string>
+</resources>
